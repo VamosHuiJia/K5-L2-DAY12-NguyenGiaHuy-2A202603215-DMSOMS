@@ -1,0 +1,9 @@
+File: export_final_v2.zip · chỉ kiểm ảnh: S01, S02
+Ảnh: 4 · đã có frame_meta: 4 · số đối tượng: child_seat=2, infant_seat=4, object=2, person=4
+Kết quả: 0 lỗi, 0 cảnh báo. Cảnh báo cần bạn tự xét, không tự động là sai.
+
+Ghi chú về thời điểm kiểm:
+- Đây là lần kiểm bổ sung ngày 21/11/2026 (giờ Việt Nam), thực hiện sau khi đã hoàn thiện bản nhãn v2.
+- Phạm vi tương ứng Checkpoint A: S01_rgb, S01_ir, S02_rgb, S02_ir (4 ảnh).
+- Dùng export_final_v2.zip; không phải bản export đã lưu tại mốc checkpoint trong buổi học.
+- Log này xác nhận kết quả của dữ liệu hiện tại. Việc dùng làm bằng chứng bổ sung cho checkpoint cần coach xác nhận.
