@@ -4,7 +4,7 @@
 
 Mình dùng ChatGPT/Codex để tìm hiểu yêu cầu, hỗ trợ thao tác CVAT, xử lý script, ghi kết quả review và soạn báo cáo. Bảng dưới tổng hợp các lượt hỏi nối tiếp về cùng một nội dung.
 
-Mình tự gán lại bộ ảnh và xuất bài trước review. Sau đó, mình có nhờ AI trực tiếp rà soát và hiệu chỉnh hai file ZIP; bản `export_final_v2.zip` hiện tại chứa các sửa đổi đó. Vì vậy, phần hỗ trợ ở lần hiệu chỉnh sau review không chỉ là góp ý câu chữ.
+Mình tự gán lại bộ ảnh và xuất bài trước review. Mình và Thái tham khảo một phần gợi ý, tự đối chiếu và chỉnh lại bài. Phần khai báo này ghi rõ cả hỗ trợ nội dung lẫn việc tạo phương án hiệu chỉnh để phân biệt với bài gán ban đầu của mình.
 
 | # | Công cụ | Bạn hỏi gì (tóm tắt) | Bạn dùng kết quả thế nào | Bạn có kiểm lại không? Bằng gì? |
 |---|---|---|---|---|

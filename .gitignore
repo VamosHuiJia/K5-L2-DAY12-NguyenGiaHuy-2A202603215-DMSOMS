@@ -6,6 +6,9 @@ G[0-9][0-9]/
 *.mp4
 part_*.zip
 peer_*.zip
+# Hai bản annotation của peer dùng làm bằng chứng review, không kèm ảnh
+!/peer_export_final.zip
+!/peer_export_final_v2.zip
 ir_pairs/
 __pycache__/
 *.pyc

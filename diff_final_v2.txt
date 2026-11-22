@@ -1,0 +1,29 @@
+So sánh 22 ảnh chung · 27 điểm khác. Mỗi dòng cần ghi: ai đúng theo guideline, luật nào, hay đây là ca mơ hồ cần hỏi.
+  D01.png | face13 | nose_tip.occluded | khác cờ | 1 | 0
+  D01.png | face13 | mouth_left.outside | khác cờ | 1 | 0
+  D01.png | face13 | mouth_right.outside | khác cờ | 1 | 0
+  D01.png | face13 | lip_upper.outside | khác cờ | 1 | 0
+  D01.png | face13 | lip_lower.outside | khác cờ | 1 | 0
+  D02.png | phone | box | chỉ có ở mine (hoặc IoU thấp) | IoU=0.48 |
+  D02.png | phone | box | chỉ có ở peer (hoặc IoU thấp) |  |
+  D03.png | face | eye_right | khác giá trị (IoU=0.86) | unknown | open
+  D03.png | face | gaze_zone | khác giá trị (IoU=0.86) | other | mirror_r
+  D03.png | hand | on_wheel | khác giá trị (IoU=0.79) | no | yes
+  D03.png | face13 | right_eye_outer.occluded | khác cờ | 1 | 0
+  D03.png | face13 | right_eye_inner.occluded | khác cờ | 1 | 0
+  D03.png | face13 | right_eye_upper.occluded | khác cờ | 1 | 0
+  D03.png | face13 | right_eye_lower.occluded | khác cờ | 1 | 0
+  D03.png | face13 | mouth_right.occluded | khác cờ | 0 | 1
+  D04.png | face13 | mouth_right.occluded | khác cờ | 1 | 0
+  D04.png | face13 | lip_lower.occluded | khác cờ | 1 | 0
+  D05.png | face | gaze_zone | khác giá trị (IoU=0.67) | other | center
+  D06.png | hand | on_wheel | khác giá trị (IoU=0.90) | no | unknown
+  D06.png | hand | on_wheel | khác giá trị (IoU=0.84) | no | unknown
+  D06.png | face | gaze_zone | khác giá trị (IoU=0.82) | other | road
+  S02_rgb.png | person | seatbelt | khác giá trị (IoU=0.93) | not_worn | unknown
+  S03_ir.png | object | box | chỉ có ở mine (hoặc IoU thấp) | IoU=0.00 |
+  S03_rgb.png | person | seatbelt | khác giá trị (IoU=0.93) | unknown | not_worn
+  S03_rgb.png | object | box | chỉ có ở mine (hoặc IoU thấp) | IoU=0.00 |
+  S05_rgb.png | person | seatbelt | khác giá trị (IoU=0.89) | unknown | not_worn
+  S07_rgb.png | person | seatbelt | khác giá trị (IoU=0.96) | unknown | not_worn
+Đã ghi disagreement_log_v2.csv (cột verdict/guideline_rule/action để bạn điền).
